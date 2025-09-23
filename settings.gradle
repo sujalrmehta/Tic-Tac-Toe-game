@@ -1,16 +1,20 @@
+// settings.gradle
+
 pluginManagement {
     repositories {
-        gradlePluginPortal()
         google()
         mavenCentral()
+        gradlePluginPortal()  // You may need this for Gradle plugins
     }
 }
+
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
     repositories {
         google()
         mavenCentral()
     }
 }
-rootProject.name = "MY_Tic-Tac-Toe"
+
+rootProject.name = "Tic-Tac-Toe-Games"
 include ':app'
