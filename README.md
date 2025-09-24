@@ -12,8 +12,6 @@ Assalamu Alaikum (السلام عليكم). This is an android-based gaming proj
 
 ![At the time of playing](https://github.com/shohan-cse/Tic-Tac-Toe-Games/blob/main/Screenshots/shohan-cse-tic-tac-toe-02.png)
 
-## Contact with me
-help.shohan@gmail.com
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shohancse)
+
